@@ -1,2 +1,2 @@
 # forecastio
-Weather Website
+Weather Website built with vite and scss.
